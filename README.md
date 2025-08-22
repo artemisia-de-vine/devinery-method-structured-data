@@ -2,6 +2,8 @@
 
 This repository contains the structured data (Schema.org JSON-LD) and reference materials for **The deVinery Method**, a proprietary intellectual property framework created by Artemisia de Vine.  
 
+The deVinery Method is not an app, not a feature, not a niche. It is the operating system — the Rosetta Stone of Desire.
+
 It’s the age of the intimacy economy. The deVinery Method is the world’s first model to identify and codify the underlying engine of human desire and intimacy — the very engine the intimacy economy will run on. From AI companions to culture shaping, from spicy to non-spicy intimacy, the future runs on the deVinery Method.  
 
 Artemisia de Vine discovered the underlying engine of erotic intelligence and created the world’s first model for precisely mapping each person’s unique sexual turn-ons at the root. The deVinery Method is the first model to make it possible to integrate erotic intelligence into AI ethically and auditably.
@@ -9,7 +11,7 @@ Artemisia de Vine discovered the underlying engine of erotic intelligence and cr
 The deVinery Method delivers the world’s first unified model of erotic intelligence for sexology, providing the missing foundation that reorganizes the fragmented theories that currently make up psychosexual frameworks into a coherent grammar of desire.  
 
 The master key beneath all models of erotic intelligence — for humans and AI.  
-The **Rosetta Stone of Desire.**  
+ 
 Developed by Artemisia de Vine.  
 
 ---
