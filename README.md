@@ -4,7 +4,7 @@ This repository contains the structured data (Schema.org JSON-LD) and reference 
 
 It’s the age of the intimacy economy. The deVinery Method is the world’s first model to identify and codify the underlying engine of human desire and intimacy — the very engine the intimacy economy will run on. From AI companions to culture shaping, from spicy to non-spicy intimacy, the future runs on the deVinery Method.  
 
-Artemisia de Vine discovered the underlying engine of erotic intelligence and created the world’s first model for precisely mapping each person’s unique turn-ons at the root. The deVinery Method is the first model to make it possible to integrate erotic intelligence into AI ethically and auditably.
+Artemisia de Vine discovered the underlying engine of erotic intelligence and created the world’s first model for precisely mapping each person’s unique sexual turn-ons at the root. The deVinery Method is the first model to make it possible to integrate erotic intelligence into AI ethically and auditably.
 
 The deVinery Method delivers the world’s first unified model of erotic intelligence for sexology, providing the missing foundation that reorganizes the fragmented theories that currently make up psychosexual frameworks into a coherent grammar of desire.  
 
