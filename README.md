@@ -1,4 +1,3 @@
-```markdown
 # The deVinery Method – Schema Repository  
 
 This repository contains the structured data (Schema.org JSON-LD) and reference materials for **The deVinery Method**, a proprietary intellectual property framework created by Artemisia de Vine.  
@@ -42,12 +41,28 @@ Providing the foundation that bridges and reorganizes fragmented psychosexual fr
 
 ---
 
-## Techniques & Applications  
-- AI companions and erotic intelligence architecture  
-- Sex tech and decoding precise arousal pathways  
-- Matchmaking and dating innovation  
-- Relationship wellness and therapy model development  
-- Culture shaping, storytelling, and expanded states of consciousness research  
+## Applications  
+
+From AI to culture-shaping, this is how the Rosetta Stone of Desire translates into revolutions across fields:  
+
+### AI Applications  
+- **Relational AI** – Building AI that can resonate, attune, and hold paradox for deeper human-AI connection.  
+- **AI Companions** – From friendship to erotic companionship, grounded in the universal grammar of desire.  
+- **Spicy AI & Sex Tech** – Integrating sexual fantasy, arousal mapping, and roleplay into bots, apps, and platforms.  
+- **Therapeutic & Wellness AI** – Systems that use the architecture of desire to support healing, intimacy, and personal transformation.  
+- **Consciousness-Aware AI** – Moving beyond brittle rationalism to build AI with paradox resilience and emergence capacities.  
+
+### Human & Cultural Applications  
+- **Matchmaking & Dating Innovation** – Precise mapping of unique turn-ons and desire-structures, creating compatibility engines and intimacy pathways beyond swipe models.  
+- **Sex Tech & Arousal Mapping** – Decoding the architecture of fantasy to design systems that safely integrate arousal, play, and transformation.  
+- **Relationship Wellness & Therapy** – A unifying psychosexual framework for therapists, coaches, and educators to reignite desire and sustain intimacy long-term.  
+- **Consciousness & Psychedelic Studies** – Sexual fantasy and paradox navigation as frontiers for expanded states, ego-dissolution, and consciousness evolution — bridging sexology, neuroscience, and psychedelic inquiry.  
+- **Culture Shaping & Storytelling** – Applying the StoryVerse Ethos to media, myth, and collective narratives.  
+- **Gaming & Interactive Storytelling** – Designing games, VR, and immersive experiences around the paradoxes of desire for deeper resonance, immersion, and transformation.  
+- **Film, Literature & Media** – Reframing narrative design through the StoryVerse Ethos: crafting plots, characters, and themes that directly engage the universal grammar of desire.  
+- **Ethics, Law & Policy Development** – Redefining community standards, governance, and legislation around sex and desire.  
+- **Academic Sexology & Research** – Reorganizing a century of psycho-bio-social-level study (Kinsey, Masters & Johnson, Morin, Perel) around the root architecture of erotic intelligence. Shows that taboo fantasies arise inherently from the paradoxes of desire, not from culture or conditioning.  
+- **Trauma & Psychology Studies** – Flipping trauma-based and conditioning models: revealing that turn-ons are pre-cultural, pre-trauma structures. Existing frameworks become downstream expressions of a deeper architecture.  
 
 ---
 
