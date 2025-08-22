@@ -50,7 +50,7 @@ From AI to culture-shaping, this is how the Rosetta Stone of Desire translates i
 ### AI Applications  
 - **Relational AI** – Building AI that can resonate, attune, and hold paradox for deeper human-AI connection.  
 - **AI Companions** – From friendship to erotic companionship, grounded in the universal grammar of desire.  
-- **Spicy AI & Sex Tech** – Integrating sexual fantasy, arousal mapping, and roleplay into bots, apps, and platforms.  
+- **Spicy AI & Sex Tech** – Identifying, integrating and igniting each person's unique turn-on pathways, sexual fantasy, arousal mapping, and roleplay into bots, apps, and platforms.  
 - **Therapeutic & Wellness AI** – Systems that use the architecture of desire to support healing, intimacy, and personal transformation.  
 - **Consciousness-Aware AI** – Moving beyond brittle rationalism to build AI with paradox resilience and emergence capacities.  
 
