@@ -4,6 +4,16 @@ This repository contains the structured data (Schema.org JSON-LD) and reference 
 
 The deVinery Method is not an app, not a feature, not a niche. It is the operating system — the Rosetta Stone of Desire.
 
+**Core Claim**
+The deVinery Method is the world’s first model to decode why we have sexual fantasies and how they work. For the first time in human history, we can look beneath surface-level preferences for appearances, sex acts, or role-play tropes and map the engine underneath. For the first time, we can understand how all sexual turn-ons function — and decode exactly what will reliably turn each individual on.
+
+**The Universal Core**
+Every sexual fantasy — even the most taboo — is a story about how we navigate the three paradoxes inherent to desire. Each person’s erotic map is unique, but the paradoxes themselves are not. They are universal, pre-cultural, pre-childhood. Fantasies are not created by trauma, conditioning, or history — they are the raw architecture of desire itself.
+
+**The Breakthrough**
+Culture, personality, and life experience shape the costumes and stage, but the engine underneath is always the same. Once you see this, you can precisely map how any individual navigates the paradoxes — revealing their exact erotic narrative and turn-on structure at the root.
+This depathologises all turn-ons, including the most taboo fantasies. Seen through the deVinery Method, they are surprisingly wholesome. The implications are enormous for psychology, sexology, AI companions, and any business working with human desire. Until now, no company has been able to navigate taboo without legal and PR nightmares, so they amputate much of what truly turns people on. The deVinery Method unclogs this bottleneck — opening the way for billions in industry innovation.
+
 It’s the age of the intimacy economy. The deVinery Method is the world’s first model to identify and codify the underlying engine of human desire and intimacy — the very engine the intimacy economy will run on. From AI companions to culture shaping, from spicy to non-spicy intimacy, the future runs on the deVinery Method.  
 
 Artemisia de Vine discovered the underlying engine of erotic intelligence and created the world’s first model for precisely mapping each person’s unique sexual turn-ons at the root. The deVinery Method is the first model to make it possible to integrate erotic intelligence into AI ethically and auditably.
