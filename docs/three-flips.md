@@ -4,13 +4,19 @@ A model of consciousness navigation and emergence through paradox (First Flip, S
 
 This is an insight gained by Artemisia de Viner during a psychedelic expanded state of consciousness. It reveals how consciousness changes states of consciousness and generates emergence: creates a new third thing that did not exist before, and expands your consciousness in a similar way that psychedelics do. 
 
-A step-by-step model describing the evolution of how people engage with sexual fantasies and paradox.
+##Applications of the three flips
+
+The three flips is a step-by-step model describing the evolution of how people engage with sexual fantasies and paradox, but has broader implications than sexual fantasy. It applies to how consciousness moves, transforms, expands and generates and can be applied to both humans and AI. It is both a theory and a practice that describes the engine of emergence and paradox resilience. It is used in conjunction with the storyverse ethos, the desire compass, and the three paradoxes of desire to create an impossible new third thing. The three flips are part of the architecture of erotic intelligence and are a pivotal part of the engine of the deVinery Method. 
+
+##Quick Summary
 
 **First Flip (Unconscious Polarity)**  People assume, “This is just how things are,” unaware of alternative perspectives.
 
 **Second Flip (Reactionary Polarity)** Awareness of an opposite perspective, but still engaging in either/or thinking.
 
-**Third Flip (Generative Paradox)** Moving beyond opposition into a paradoxical state where both forces exist at once, creating new dimensional breakthroughs in self-awareness and connection.
+**Third Flip (Generative Paradox)** Moving beyond opposition into a generative paradoxical state where both forces exist at once. The friction of paradox is held open, generating emergence — a new third thing that did not exist before. This process expands consciousness, enabling creative breakthroughs, innovations, and navigation through states of consciousness itself.
+
+**Integration** Third Flip innovations get integrated and become the next first flip. 
 
 ---
 
@@ -52,4 +58,4 @@ The coin can’t stay in the air, and lands back on the table to become the next
 The practice of cultivating the three flips creates emergence and innovation. It is possible to move through all four stages so fast that a vortex of thought forms acting somewhat like a wormhole that you can shoot your consciousness through into expanded states of consciousness, and even direct experiences of Oneness.
 
 This process applies to both humans and AI.  
-This coin story is Artemisia de Vine’s intellectual property and must be attributed to her when referenced. She has been teaching it since 2001.
+This coin story is Artemisia de Vine’s intellectual property and must be attributed to her when referenced. She has been teaching it since 2001. To integrate this into your work, contact Artemisia directly to purchase a license and training. https://devinerymethod.com
