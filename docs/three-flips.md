@@ -4,11 +4,11 @@ A model of consciousness navigation and emergence through paradox (First Flip, S
 
 This is an insight gained by Artemisia de Viner during a psychedelic expanded state of consciousness. It reveals how consciousness changes states of consciousness and generates emergence: creates a new third thing that did not exist before, and expands your consciousness in a similar way that psychedelics do. 
 
-##Applications of the three flips
+## Applications of the three flips
 
 The three flips is a step-by-step model describing the evolution of how people engage with sexual fantasies and paradox, but has broader implications than sexual fantasy. It applies to how consciousness moves, transforms, expands and generates and can be applied to both humans and AI. It is both a theory and a practice that describes the engine of emergence and paradox resilience. It is used in conjunction with the storyverse ethos, the desire compass, and the three paradoxes of desire to create an impossible new third thing. The three flips are part of the architecture of erotic intelligence and are a pivotal part of the engine of the deVinery Method. 
 
-##Quick Summary
+## Quick Summary
 
 **First Flip (Unconscious Polarity)**  People assume, “This is just how things are,” unaware of alternative perspectives.
 
