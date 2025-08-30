@@ -1,4 +1,7 @@
-<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    …
 {
   "@context": "https://schema.org",
   "@graph": [
