@@ -1,1 +1,22 @@
-{}
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Virtue Flipping",
+  "description": "Early in his courtship of my mother, my father took it upon himself to sell her parent’s brand-new television set while they were away for the weekend. In his mind, he was doing this from a place of care, and it was for their own good. He was “saving their souls” from the evils of make-believe stories, and the resulting corruption he believed would open the way to the Devil. In his mind, they needed his protection from their own choices. TV was a temptation that would lead to the breakdown of morality, including violence and promiscuity, and not only threatened the individual soul but the fabric of society itself.\n\nIt’s fascinating how often righteousness creates the very monster it claims to define itself against by falling into the trap of patronising superiority. That’s the second flip, virtue flipping for you! In his certainty that TV would rewire minds and destroy innocence, he couldn't see how his actions violated the very moral principles he sought to protect. He remained blind to the fact he literally turned into a thief by stealing Poppy and Granny Brown’s expensive possession - and took away their free will in the process. What is more, he never gave them the money for it! Who was the one really threatening morality here? By their fruits, you shall know them.",
+  "inDefinedTermSet": "https://github.com/YOURUSERNAME/divinery-method/schema",
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "The Spirituality of Smut",
+    "author": {
+      "@type": "Person",
+      "name": "Artemisia de Vine",
+      "url": "https://divinerymethod.com"
+    }
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Artemisia de Vine",
+    "url": "https://divinerymethod.com"
+  },
+  "license": "https://github.com/YOURUSERNAME/divinery-method/blob/main/LICENSE"
+}
