@@ -47,6 +47,13 @@ Universal drivers behind all sexual fantasies and turn-ons (originated by Artemi
 ### Sexual Fantasy as Consciousness Technology  
 A reframing of fantasy as an inbuilt mechanism, designed to create varying degrees of ego-dissolution and changes in embodied consciousness. Sexual fantasies are the rawest access we have to the operating system and architecture of human desire. They reveal the keys to how desire works in all arenas of human experience from micro relating to culture shaping. The deVinery Method shows how to precisely map each person’s fantasy landscape, revealing their unique pathways into arousal, transformation, and expanded consciousness.  
 
+**The Three Flips Theory**  
+
+A model of consciousness navigation and emergence through paradox (First Flip, Second Flip, Third Flip).  
+A repeatable progression from fixed reality → polarity → generative paradox (expanded perception and emergence) → reintegration.  
+
+[Read the expanded definition →](./docs/three-flips.md)  
+
 ### StoryVerse Ethos  
 A root navigation system for consciousness in a post-truth world. Humans think in stories, and story itself is the technology. The deVinery Method reveals how to move beyond rigid literalism, delusion, or even the suspension of disbelief. Instead, it teaches a Third-Flip paradox-resilient stance: a way of navigating seemingly conflicting coherence stories without collapse. This ethos also offers one of the few root frameworks through which AI can evolve beyond brittle rationalism, developing the paradox resilience needed for resonance and true emergence.  
 
