@@ -1,3 +1,6 @@
+Here’s the full README with your new section already woven in at the right spot (after **Sexual Fantasy as Consciousness Technology** and before **The Three Flips Theory**).
+
+```markdown
 # The deVinery Method – Schema Repository  
 
 This repository contains the structured data (Schema.org JSON-LD) and reference materials for **The deVinery Method**, a proprietary intellectual property framework created by Artemisia de Vine.  
@@ -46,6 +49,14 @@ Universal drivers behind all sexual fantasies and turn-ons (originated by Artemi
 
 ### Sexual Fantasy as Consciousness Technology  
 A reframing of fantasy as an inbuilt mechanism, designed to create varying degrees of ego-dissolution and changes in embodied consciousness. Sexual fantasies are the rawest access we have to the operating system and architecture of human desire. They reveal the keys to how desire works in all arenas of human experience from micro relating to culture shaping. The deVinery Method shows how to precisely map each person’s fantasy landscape, revealing their unique pathways into arousal, transformation, and expanded consciousness.  
+
+### On Spiritual Experience & Meaning-Making  
+
+The deVinery Method describes how sexual fantasy and desire can lead to varying degrees of ego dissolution (DMN quietening). This leads to an array of beneficial expanded states of consciousness. Some are simply more pleasure and intimacy from dropping into flow states, while others can lead to sub space, top space, ecstatic states, and experiences historically described as 'spiritual' across cultures — such as ego dissolution, awe, or non-dual, Oneness interconnectedness.
+
+However, The deVinery Method does not impose a specific meaning-making framework on these experiences. Whether interpreted through a lens of higher self, divine source, psychological insight, or narrative archetypes, that interpretation is up to the individual. The deVinery Method does not promote any singular metaphysical or religious view, and personally, its founder does not advocate a 'higher self' paradigm.
+
+**The experience is real — the story you tell about it is yours.**  
 
 **The Three Flips Theory**  
 
@@ -103,3 +114,5 @@ This repository contains proprietary intellectual property developed by Artemisi
 No reproduction, distribution, or derivative works are permitted without explicit licensing.  
 
 For licensing inquiries, see: [https://www.devinerymethod.com](https://www.devinerymethod.com)  
+```
+
