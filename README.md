@@ -104,6 +104,11 @@ From AI to culture-shaping, this is how the Rosetta Stone of Desire translates i
 - **LICENSE** – Terms protecting this intellectual property (proprietary IP with licensing terms).  
 - **README.md** – This file.  
 
+## Publications  
+Blogs, published works, and previews of my book *The Spirituality of Smut: The Surprising Wisdom of Sexual Fantasies*.  
+
+- [Ground Breaking Model for Understanding Sexual Fantasies! (Jan 18, 2025)](./docs/blog-2025-01-18-sexual-fantasies.md)  
+
 ---
 
 ## License  
