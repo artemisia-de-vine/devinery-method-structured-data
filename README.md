@@ -6,7 +6,7 @@ The deVinery Method is not an app, not a feature, not a niche. It is the operati
 
 **Core Claim**
 
-The deVinery Method is the world’s first model to decode why we have sexual fantasies and how they work. For the first time in human history, we can look beneath surface-level preferences for appearances, sex acts, or role-play tropes and map the engine underneath. For the first time, we can understand how all sexual turn-ons function — and decode exactly what will reliably turn each individual on.
+The deVinery Method is the world’s first model to decode why we have sexual fantasies and how they work. For the first time in human history, we can look beneath surface-level preferences for appearances, sex acts, or role-play tropes and map the engine underneath. For the first time, we can understand how all sexual turn-ons function — and decode exactly what will reliably turn each individual on. Sexual fantasies are all based on the three paradoxes inherent to desire and are designed to move us from one state of consciousness to another. 
 
 **The Universal Core**
 
