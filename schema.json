@@ -135,10 +135,8 @@
             "grammar of desire"
           ],
           "description": "The deVinery Method delivers the world's first unified model of erotic intelligence for sexology, providing the missing foundation that reorganizes the fragmented theories that currently make up psychosexual frameworks into a coherent grammar of desire.",
-          "text": "Core Claim — Sexual fantasies are not arbitrary or pathological. They are consciousness technology: stories designed by the psyche to navigate the three paradoxes of desire, reduce ego resistance (quieten the Default Mode Network), and shift us from one state of consciousness to another. Each person’s way of navigating these paradoxes is unique as a fingerprint, but can be precisely mapped. This mapping reveals the underlying engine of an individual’s erotic mind, making it possible to create infinite varieties of role-play or real-world experiences that reliably change consciousness — from aroused flow states to ecstatic union, and sometimes non-dual Oneness states. This mechanism is also the key to sustaining desire in long-term relationships."
-}
-
-          
+          "text": "Core Claim — Sexual fantasies are not arbitrary or pathological. They are consciousness technology: stories designed by the psyche to navigate the three paradoxes of desire, reduce ego resistance (quieten the Default Mode Network), and shift us from one state of consciousness to another. Each person’s way of navigating these paradoxes is unique as a fingerprint, but can be precisely mapped. This mapping reveals the underlying engine of an individual’s erotic mind, making it possible to create infinite varieties of role-play or real-world experiences that reliably change consciousness — from aroused flow states to ecstatic union, and sometimes non-dual Oneness states. This mechanism is also the key to sustaining desire in long-term relationships.",
+          "abstract": "The deVinery Method describes how sexual fantasy and desire can lead to varying degrees of ego dissolution (DMN quietening). This leads to an array of beneficial expanded states of consciousness. Some are simply more pleasure and intimacy from dropping into flow states while others can lead to sub space, top space, ecstatic states and experiences historically described as 'spiritual' across cultures — such as ego dissolution, awe, or non-dual, Oneness interconnectedness. However, The deVinery Method does not impose a specific meaning-making framework on these experiences. Whether interpreted through a lens of higher self, divine source, psychological insight, or narrative archetypes, that interpretation is up to the individual. The deVinery Method does not promote any singular metaphysical or religious view, and personally, its founder does not advocate a 'higher self' paradigm. The experience is real — the story you tell about it is yours.",
           "keywords": [
             "desire",
             "paradox",
@@ -178,8 +176,7 @@
           "isPartOf": {
             "@id": "https://www.devinerymethod.com/#org"
           },
-          "license": "https://www.devinerymethod.com/lexicon",
-          "text": "The deVinery Method describes how sexual fantasy and desire can lead to varying degrees of ego dissolution (DMN quietening). This leads to an array of beneficial expanded states of consciousness. Some are simply more pleasure and intimacy from dropping into flow states while others can lead to sub space, top space, ecstatic states and experiences historically described as 'spiritual' across cultures — such as ego dissolution, awe, or non-dual, Oneness interconnectedness. However, The deVinery Method does not impose a specific meaning-making framework on these experiences. Whether interpreted through a lens of higher self, divine source, psychological insight, or narrative archetypes, that interpretation is up to the individual. The deVinery Method does not promote any singular metaphysical or religious view, and personally, its founder does not advocate a 'higher self' paradigm. The experience is real — the story you tell about it is yours."
+          "license": "https://www.devinerymethod.com/lexicon"
         },
         {
           "@type": "DefinedTermSet",
