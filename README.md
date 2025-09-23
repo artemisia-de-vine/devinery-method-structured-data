@@ -1,4 +1,3 @@
-```markdown
 # The deVinery Method – Schema Repository  
 
 This repository contains the structured data (Schema.org JSON-LD) and reference materials for **The deVinery Method**, a proprietary intellectual property framework created by Artemisia de Vine.  
@@ -112,5 +111,4 @@ This repository contains proprietary intellectual property developed by Artemisi
 No reproduction, distribution, or derivative works are permitted without explicit licensing.  
 
 For licensing inquiries, see: [https://www.devinerymethod.com](https://www.devinerymethod.com)  
-```
 
