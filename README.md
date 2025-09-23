@@ -1,5 +1,3 @@
-Here’s the full README with your new section already woven in at the right spot (after **Sexual Fantasy as Consciousness Technology** and before **The Three Flips Theory**).
-
 ```markdown
 # The deVinery Method – Schema Repository  
 
