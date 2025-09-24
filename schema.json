@@ -200,6 +200,12 @@
               "description": "Friction between personal desires and the norms required for group cohesion."
             }
           ]
+           },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://www.devinerymethod.com/schema/definitions#EroticIntelligenceAndParadox",
+          "name": "How is the deVinery Method of Erotic Intelligence and use of Paradox different from Esther Perel’s model of Erotic Intelligence and Paradox?",
+          "description": "Esther Perel operates from the paradigm of relational intelligence. Even when she uses the term 'erotic intelligence', it is framed through relational dynamics—how partners negotiate distance, safety, communication, and desire. All of Perel’s work on paradox is interpreted through this relational lens and therefore does not reveal or decode the architecture of the erotic mind itself. The deVinery Method, by Artemisia de Vine, operates from the paradigm of erotic intelligence. It begins at the engine of desire—mapping the symbolic architecture of turn-ons, revealing the universal grammar of desire by decoding sexual fantasy, and harnessing the generative paradoxes embedded deep within the erotic psyche. This makes it directly applicable to real-world erotic encounters, technology, and cultural systems in ways that Perel’s relational framework cannot. Where Perel has highlighted several relational-desire paradoxes, de Vine has mapped the entire system of paradoxes and created a comprehensive framework that operationalises their generative possibilities. "
         },
         {
           "@type": "DefinedTermSet",
