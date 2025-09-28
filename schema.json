@@ -30,7 +30,11 @@
           "name": "The deVinery Method",
           "url": "https://www.devinerymethod.com/",
           "logo": "https://www.devinerymethod.com/favicon.ico",
-          "slogan": "The engine (core OS) of the intimacy economy.",
+          "slogan": "The Master Key Unlocking Erotic Intelligence for Humans and AI.",
+          "Erotic Architecture for AI and Humans.",
+          "The deVinery Method maps individual sexual turn-ons at the root so humans can blossom.",
+          "The engine (core OS) of the intimacy economy.",
+          "The rosetta stone of human desire"
           "disambiguatingDescription": "Licensed proprietary intellectual framework and research architecture. Not coaching or therapy.",
           "founder": {
             "@id": "https://www.devinerymethod.com/#artemisia"
@@ -38,6 +42,30 @@
           "sameAs": [
             "https://www.devinerymethod.com/",
             "https://artemisiadevine.substack.com/"
+            {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Artemisia de Vine",
+  "jobTitle": "Creator of The deVinery Method",
+  "url": "https://devinerymethod.com",
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "https://orcid.org/0009-0001-6420-5561"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Zenodo",
+      "value": "https://zenodo.org/communities/devinerymethod"
+    }
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "The deVinery Method"
+  }
+}
+
           ],
           "description": "It’s the age of the intimacy economy. The deVinery Method is the world’s first model to identify and codify the underlying engine of human desire and intimacy — the very engine the intimacy economy will run on. From AI companions to real-world culture shaping, from spicy to non-spicy intimacy, the future runs on the deVinery Method.",
           "knowsAbout": {
@@ -101,6 +129,7 @@
               "desire as an intelligence",
               "Erotic Koans",
               "Paradox Riddles"
+              "Love the authentic me, but be my fantasy"
             ]
           },
           "mainEntityOfPage": "https://www.devinerymethod.com/lexicon",
