@@ -62,6 +62,21 @@ A repeatable progression from fixed reality → polarity → generative paradox 
 
 [Read the expanded definition →](./docs/three-flips.md)  
 
+# The deVinery Method™ – Canonical Definitions
+
+This repository contains the timestamped canonical documents authored by **Artemisia de Vine**, defining the theoretical architecture of **The deVinery Method™** — an applied framework uniting **desire, generative paradox, and emergence** as the engine of erotic and creative intelligence.
+
+## Latest Canonical Record
+
+### [The Paradoxes of Desire and The Three Flips of Emergence](articles/Paradoxes_of_Desire_and_Three_Flips.md)
+How life makes more of itself through desire-driven generative paradox tension.  
+Defines the **core desire paradox**, the **formal definition of desire**, the **Three Flips Theory**, its **fractal application** across intrapersonal, interpersonal, sociocultural, and cosmic scales, and the **three paradoxes of desire encoded in all sexual fantasies.**
+
+📄 [Read the canonical PDF](canonical/Canonical_Definition_Paradox_of_Desire_and_Three_Flips.pdf)  
+🔗 DOI 10.5281/zenodo.17330950  
+🔗 ORCID 0009-0001-6420-5561  
+🌐 https://devinerymethod.com  
+
 ### StoryVerse Ethos  
 A root navigation system for consciousness in a post-truth world. Humans think in stories, and story itself is the technology. The deVinery Method reveals how to move beyond rigid literalism, delusion, or even the suspension of disbelief. Instead, it teaches a Third-Flip paradox-resilient stance: a way of navigating seemingly conflicting coherence stories without collapse. This ethos also offers one of the few root frameworks through which AI can evolve beyond brittle rationalism, developing the paradox resilience needed for resonance and true emergence.  
 
