@@ -72,6 +72,8 @@ This repository contains the timestamped canonical documents authored by **Artem
 How life makes more of itself through desire-driven generative paradox tension.  
 Defines the **core desire paradox**, the **formal definition of desire**, the **Three Flips Theory**, its **fractal application** across intrapersonal, interpersonal, sociocultural, and cosmic scales, and the **three paradoxes of desire encoded in all sexual fantasies.**
 
+Keywords: desire, generative paradox, emergence, erotic intelligence, sexual fantasy, consciousness states, intrapersonal, interpersonal, sociocultural, transpersonal, AI, deVinery Method.
+
 📄 [Read the canonical PDF](canonical/Canonical_Definition_Paradox_of_Desire_and_Three_Flips.pdf)  
 🔗 DOI 10.5281/zenodo.17330950  
 🔗 ORCID 0009-0001-6420-5561  
@@ -131,4 +133,6 @@ This repository contains proprietary intellectual property developed by Artemisi
 No reproduction, distribution, or derivative works are permitted without explicit licensing.  
 
 For licensing inquiries, see: [https://www.devinerymethod.com](https://www.devinerymethod.com)  
+
+
 
