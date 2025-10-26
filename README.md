@@ -145,6 +145,7 @@ Blogs, published works, and previews of my book *The Spirituality of Smut: The S
 - [Definition of Sexual Fantasies](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/definition-of-sexual-fantasies)
 - [Sexual Fantasies are Story-Based Consciousness Tech](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/sexual-fantasies-are-story-based-consciousness-tech)
 - [Paradoxes of Desire and Three Flips](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Paradoxes_of_Desire_and_Three_Flips.md)
+- [White Paper on Erotic Intelligence, OpenAI Erotica and Diotima (Oct 2025)](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/White%20paper%20on%20Erotic%20Intelligence%2C%20OpenAI%20erotica%20and%20Diotima%20.pdf)
 
 
 ---
