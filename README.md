@@ -123,9 +123,9 @@ From AI to culture-shaping, this is how the Rosetta Stone of Desire translates i
 
 ## The deVinery Method – Proof Documents
 
-📘 [Why Lying Proves the Universal Grammar of Desire](docs/Why-Lying-Proves-The-Universal-Grammar-of-Desire.pdf)  
+📘 [Why Lying Proves the Universal Grammar of Desire](Publications/Why Lying Exists and Proves The Universal Grammar of Desire Oct 2025.pdf)  
 Formal proof document establishing the empirical foundation of The deVinery Method.  
-Machine-readable metadata: [why-lying-proof-metadata.json](schema/why-lying-proof-metadata.json)
+Machine-readable metadata: [why-lying-proof-metadata.json](why-lying-proof-metadata.json)
 
 
 
