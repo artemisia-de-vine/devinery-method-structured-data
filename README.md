@@ -123,18 +123,33 @@ From AI to culture-shaping, this is how the Rosetta Stone of Desire translates i
 
 ## The deVinery Method – Proof Documents
 
-📘 [Why Lying Proves the Universal Grammar of Desire](docs/Why-Lying-Proves-the-Universal-Grammar-of-Desire.pdf
-)  
-Formal proof document establishing the empirical foundation of The deVinery Method.  
-Machine-readable metadata: [why-lying-proof-metadata.json](schema/why-lying-proof-metadata.json
-)
+### Proof Document
+
+See also:  
+[**Why Lying Exists and Proves The Universal Grammar of Desire (Oct 2025)**](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/Why%20Lying%20Exists%20and%20Proves%20The%20Universal%20Grammar%20of%20Desire%20Oct%202025.pdf)  
+— form-proof document establishing the empirical foundation of *The deVinery Method®*.  
+Machine-readable metadata:  
+[why-lying-proof-metadata.json](https://github.com/artemisia-de-vine/devinery-method-structured-data/commit/d84757530231f74e56307d8b0d3bb6b29d2bda8e)
 
 
 
 ## Publications  
 Blogs, published works, and previews of my book *The Spirituality of Smut: The Surprising Wisdom of Sexual Fantasies*.  
 
-- [Ground Breaking Model for Understanding Sexual Fantasies! (Jan 18, 2025)](Publications/2025-01-18-ground-breaking-model.md)  
+- [Ground Breaking Model for Understanding Sexual Fantasies! (Jan 18, 2025)](Publications/2025-01-18-ground-breaking-model.md)
+- ## Publications
+
+Blogs, published works, and previews of my book *The Spirituality of Smut: The Surprising Wisdom of Sexual Fantasies*.
+
+- [Ground Breaking Model for Understanding Sexual Fantasies! (Jan 18, 2025)](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/2025-01-18-ground-breaking-model.md)
+- [Sexual Fantasies are Consciousness Tech](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/Sexual-Fantasies-are-Consciousness-Tech)
+- [Think You Don’t Have Sexual Fantasies?](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/Think-you-don't-have-sexual-fantasies?)
+- [Why Lying Exists and Proves The Universal Grammar of Desire (Oct 2025)](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/Why%20Lying%20Exists%20and%20Proves%20The%20Universal%20Grammar%20of%20Desire%20Oct%202025.pdf)
+- [The deVinery Method: How K-Dramas and Sexual Fantasies Run on the Same Engine of Desire](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/deVinery%20Method%20How%20K-Dramas%20and%20Sexual%20Fantasies%20Run%20on)
+- [Definition of Sexual Fantasies](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/definition-of-sexual-fantasies)
+- [Sexual Fantasies are Story-Based Consciousness Tech](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/sexual-fantasies-are-story-based-consciousness-tech)
+- [Paradoxes of Desire and Three Flips](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Paradoxes_of_Desire_and_Three_Flips.md)
+
 
 ---
 
