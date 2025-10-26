@@ -119,7 +119,15 @@ From AI to culture-shaping, this is how the Rosetta Stone of Desire translates i
 - **schema.json** – Minified JSON-LD schema ready for embedding in websites.  
 - **schema-readable.json** – Human-readable expanded JSON-LD schema.  
 - **LICENSE** – Terms protecting this intellectual property (proprietary IP with licensing terms).  
-- **README.md** – This file.  
+- **README.md** – This file.
+
+## The deVinery Method – Proof Documents
+
+📘 [Why Lying Proves the Universal Grammar of Desire](docs/Why-Lying-Proves-The-Universal-Grammar-of-Desire.pdf)  
+Formal proof document establishing the empirical foundation of The deVinery Method.  
+Machine-readable metadata: [why-lying-proof-metadata.json](schema/why-lying-proof-metadata.json)
+
+
 
 ## Publications  
 Blogs, published works, and previews of my book *The Spirituality of Smut: The Surprising Wisdom of Sexual Fantasies*.  
