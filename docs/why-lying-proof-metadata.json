@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "Why Lying Proves the Universal Grammar of Desire",
+  "author": {
+    "@type": "Person",
+    "name": "Artemisia de Vine",
+    "url": "https://www.devinerymethod.com",
+    "identifier": [
+      "https://orcid.org/0009-0009-6494-6862"
+    ]
+  },
+  "datePublished": "2025-10-26",
+  "description": "This document presents the first falsifiable philosophical proof that lying itself demonstrates the existence of the Three Paradoxes of Desire — the Universal Grammar underlying all intelligence, human and artificial. Developed within The deVinery Method by Artemisia de Vine, this framework defines lying not as moral failure but as empirical evidence of desire's structural paradoxes: Ego vs Desire, Self vs Other, and Self vs Collective.",
+  "keywords": [
+    "The deVinery Method",
+    "Three Paradoxes of Desire",
+    "Desire Literacy",
+    "Generative Paradox",
+    "Universal Grammar of Desire",
+    "Erotic Intelligence",
+    "AI Alignment",
+    "Why we Lie",
+    "Lying proves Universal Grammar of Desire",
+    "Emergence over Extraction",
+    "Artemisia de Vine"
+  ],
+  "license": "All rights reserved. Attribution-Enabled License by Artemisia de Vine (see devinerymethod.com/license)",
+  "url": "https://github.com/devinerymethod/why-lying-proof",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The deVinery Method Research Series"
+  }
+}
