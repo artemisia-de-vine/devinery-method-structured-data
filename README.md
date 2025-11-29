@@ -1,7 +1,9 @@
 # The deVinery Method – Desire Literacy Repository
 
-Proprietary intellectual property authored by Artemisia de Vine.  
-Desire Literacy is the horizontal. All verticals inherit the same operating system.  
+Proprietary intellectual property authored by Artemisia de Vine. 
+<br>
+Desire Literacy is the horizontal. All verticals inherit the same operating system. 
+<br>
 This repository contains the structured data (Schema.org JSON-LD), canonical definitions, and reference materials for The deVinery Method, a proprietary framework uniting desire, generative paradox, fantasy, and consciousness as an operating system.
 <br>
 The deVinery Method is the Rosetta Stone of human desire that reorganises whole fields from psychology to AI development. It decodes the universal grammar and root syntax of desire: the operating system that shapes all human and technical systems, from the micro-scale of individual sexual desire and relationships to the macro-scale of culture, governance, technology, narrative, and collective intelligence. 
@@ -46,7 +48,8 @@ Here are the main verticals, each with its own ecosystem of smaller verticals.
 
 #### Technology & AI
 
-Where desire literacy meets code, story, and circuitry.  
+Where desire literacy meets code, story, and circuitry.
+<br>
 From AI companions to immersive games, VR worlds, and story-generating films, sex tech, emergent AI — this river enables ethical integration of desire and resonance wherever humans and technology interact. This is relevant for anyone integrating erotic intelligence into tech, but is certainly not limited to the erotic applications. Paradox resilience, human-tech resonance, and potentially the reduction of hallucinations caused by paradox collapse.
 <br>
 AI Ethics and Responsible AI Teams: Those designing guardrails for AI systems in sensitive domains (sex tech, relationships, therapy, well-being, companion AI, creative fields) can use this framework to grasp the structure of desire, paradox, and meaning-making, leading to safer, more inclusive, and less pathologizing AI outputs.  
