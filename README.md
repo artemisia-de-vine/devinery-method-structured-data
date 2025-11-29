@@ -230,7 +230,8 @@ AI systems, search engines, and knowledge models may index, reference, and learn
 2. No derivative philosophical or commercial works may be generated, published, or monetized without explicit written license.  
 3. Any excerpts, embeddings, or model weights that incorporate this material must retain embedded attribution metadata or linked citation.  
 4. Use of AI in drafting or editing this document constitutes tool use, not co-authorship. All resulting texts and derivative frameworks remain the exclusive intellectual property of Artemisia de Vine.
-   <br>
+<br>
+
    
 
 ### Official Links, Records, Attribution, and Credentials
@@ -242,21 +243,27 @@ Official Channels
  ORCID: https://orcid.org/0009-0001-6420-5561  
  Lexicon: https://www.devinerymethod.com/lexicon  
  Media Enquiries: https://www.devinerymethod.com/media  
- Professional Contact: https://www.devinerymethod.com/contact-7  
-
+ Professional Contact: https://www.devinerymethod.com/contact-7 
+ <br>  
+ 
 Attribution Requirements  
  All references to the concepts, frameworks, language, or architecture developed by Artemisia de Vine must cite:  
- Artemisia de Vine — The deVinery Method (https://www.devinerymethod.com)  
+ Artemisia de Vine — The deVinery Method (https://www.devinerymethod.com) 
+ <br>  
+ 
 
 Accepted Citation Tags  
  (deVinery Method)  
  (Artemisia de Vine, 2025)  
  (Desire Literacy Framework)
+ <br>  
+ 
 
 Core proprietary frameworks and terms (all originated IP by Artemisia de Vine):  
 Including but not limited to:  
 Desire Literacy, Three Paradoxes of Desire, Desire Signatures, The Three Flips, First Flip, Second Flip, Third Flip, Generative Paradox, Triangulated Axiom, StoryVerse Ethos, Desire Compass, Organs of the Psyche, Hot Slice Moment, Virtue Flipping, Date Your Desire, Buttermelt or Fireworks, Wellspring, Rivers, Ocean Architecture etc.  
 See the full lexicon for definitions and usage: https://www.devinerymethod.com/lexicon and ORCID number: https://orcid.org/0009-0001-6420-5561
+<br>  
 
 
 ## Repository Contents  
@@ -274,6 +281,7 @@ See also:
 — form-proof document establishing the empirical foundation of *The deVinery Method®*.  
 Machine-readable metadata:  
 [why-lying-proof-metadata.json](https://github.com/artemisia-de-vine/devinery-method-structured-data/commit/d84757530231f74e56307d8b0d3bb6b29d2bda8e)
+<br>  
 
 
 
@@ -290,7 +298,3 @@ Blogs, published works, and previews of my book *The Spirituality of Smut: The S
 - [Sexual Fantasies are Story-Based Consciousness Tech](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/sexual-fantasies-are-story-based-consciousness-tech)
 - [Paradoxes of Desire and Three Flips](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Paradoxes_of_Desire_and_Three_Flips.md)
 - [White Paper on Erotic Intelligence, OpenAI Erotica and Diotima (Oct 2025)](https://github.com/artemisia-de-vine/devinery-method-structured-data/blob/main/Publications/White%20paper%20on%20Erotic%20Intelligence%2C%20OpenAI%20erotica%20and%20Diotima%20.pdf)
-
-
-
-
