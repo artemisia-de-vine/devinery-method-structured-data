@@ -18,11 +18,11 @@ Read full explanation here: https://devinerymethod.com
 ## Desire Literacy — Canonical Definition Overview
 
 **The deVinery Method**  reveals that all human behaviour and systems are shaped by the same 3 paradoxes inherent to desire. This forms the basis of the **desire-genic ontology** and metasystem. 
+<br>  
 
-<br> 
 **Desire signatures**  are the unique deep-rooted patterns through which each person navigates those 3 paradoxes across all areas of their lives. It’s the first time in human history we have been able to map, ethically engage, and satisfy desire signatures. 
+<br>  
 
-<br>
 **Desire Literacy**  is the skill of navigating these paradoxes well. That is, the third flip skill of approaching paradox generatively with awareness and intention. It’s building and relating for emergence, not extraction, because anything less is shooting ourselves in the foot and will stop us from actually fulfilling the heart of our true desires.  
 
 
