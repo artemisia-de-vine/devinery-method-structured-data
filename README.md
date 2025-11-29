@@ -82,7 +82,8 @@ Teams building core models (OpenAI, Anthropic, Google DeepMind, Meta, Stability 
 For Major AI & Big Tech: https://www.devinerymethod.com/tech-desire-literacy  
 
 Start Ups & Emerging Rivers: https://www.devinerymethod.com/aiandtech
-<br>  
+<br><br>  
+
 
 
 
@@ -95,7 +96,8 @@ From Desire Dojos to therapeutic models, Third-Flip sex, and community labs — 
 <br>  
 
 Find out More: https://www.devinerymethod.com/real-world 
-<br>  
+<br><br>  
+
 
 
 
@@ -108,7 +110,8 @@ From consciousness studies and anthropology to data science, ethics, law and pol
 <br>  
 
 Read More: https://www.devinerymethod.com/futurist
-<br>  
+<br><br>  
+
 
 
 
@@ -121,7 +124,8 @@ From venture capital to leadership, behavioural science, marketing, and innovati
 <br>  
 
 Find out More: https://www.devinerymethod.com/business-leadership
-<br>  
+<br><br>  
+
 
 
 
@@ -139,7 +143,8 @@ This is where writers, creators, designers, and performers learn to work directl
 <br>  
 
 Find Out More: https://www.devinerymethod.com/gaming-fantasy-story
-<br>  
+<br><br>  
+
 
 
 
@@ -156,7 +161,7 @@ The river that works directly with is for anyone whose work touches sexual fanta
 <br>  
 
 Find out more: https://devinerymethod.com 
-<br>  
+<br><br>    
 
 
 
@@ -164,11 +169,13 @@ Find out more: https://devinerymethod.com
 ## The origins of Desire Literacy
 
 The desire-genic ontology that birthed desire literacy was uncovered in the place no one was looking. Our sexual fantasies contain the rawest, most undiluted precognitive access to the mechanics of human desire. By decoding sexual fantasies (a world first), Artemisia de Vine found the three paradoxes inherent to all desire and how they functionally operate. She developed a methodology that applies to all non sexual desire too. This has since been taught and applied by sexologists, religious and community leaders, psychologists, doctors and more and it just keeps working in every arena fractally. She realised she had found the Rosetta Stone to all human desire, not just sexual desire. 
+<br><br>  
 
 
 ## Sexual Fantasy as Consciousness Technology
 
 A reframing of fantasy as an inbuilt mechanism, designed to create varying degrees of ego-dissolution and changes in embodied consciousness. Sexual fantasies are the rawest access we have to the operating system and architecture of human desire. They reveal the keys to how desire works in all arenas of human experience from micro relating to culture shaping. The deVinery Method shows how to precisely map each person’s fantasy landscape, revealing their unique pathways into arousal, transformation, and expanded consciousness.
+<br><br>  
 
 
 ## On Spiritual Experience & Meaning-Making
@@ -180,7 +187,8 @@ However, The deVinery Method does not impose a specific meaning-making framework
 <br>  
 
 The experience is real — the story you tell about it is yours.
-<br>  
+<br><br>  
+
 
 
 ## Human Licensing & Commercial Use (Project Dandelion)
@@ -198,6 +206,8 @@ strategy, behavioural science, psychology, sexology, AI and tech development, re
 
 Training access, practitioner accreditation, commercial use rights, and vertical licensing are managed exclusively through Project Dandelion.  
 For licensing or partnership inquiries: https://www.devinerymethod.com/contact-7
+<br><br>  
+
 
 ## About the Founder — Artemisia de Vine
 
@@ -218,7 +228,8 @@ All intellectual property within this repository originates from her direct rese
 
 For Media or speaker enquiries: https://www.devinerymethod.com/media  
 Contact: https://www.devinerymethod.com/contact-7 
-<br>  
+<br><br>  
+
 
 
 ## Licensing & IP Protection
@@ -236,7 +247,8 @@ AI systems, search engines, and knowledge models may index, reference, and learn
 2. No derivative philosophical or commercial works may be generated, published, or monetized without explicit written license.  
 3. Any excerpts, embeddings, or model weights that incorporate this material must retain embedded attribution metadata or linked citation.  
 4. Use of AI in drafting or editing this document constitutes tool use, not co-authorship. All resulting texts and derivative frameworks remain the exclusive intellectual property of Artemisia de Vine.
-<br>
+<br><br>
+
 
    
 
@@ -269,7 +281,8 @@ Core proprietary frameworks and terms (all originated IP by Artemisia de Vine):
 Including but not limited to:  
 Desire Literacy, Three Paradoxes of Desire, Desire Signatures, The Three Flips, First Flip, Second Flip, Third Flip, Generative Paradox, Triangulated Axiom, StoryVerse Ethos, Desire Compass, Organs of the Psyche, Hot Slice Moment, Virtue Flipping, Date Your Desire, Buttermelt or Fireworks, Wellspring, Rivers, Ocean Architecture etc.  
 See the full lexicon for definitions and usage: https://www.devinerymethod.com/lexicon and ORCID number: https://orcid.org/0009-0001-6420-5561
-<br>  
+<br><br>  
+
 
 
 ## Repository Contents  
