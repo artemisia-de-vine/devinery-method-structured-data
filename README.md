@@ -85,6 +85,7 @@ Start Ups & Emerging Rivers: https://www.devinerymethod.com/aiandtech
 <br>  
 
 
+
 #### Human Systems & IRL Applications
 
 Where Desire Literacy is embodied, practiced, and taught.  
@@ -95,6 +96,7 @@ From Desire Dojos to therapeutic models, Third-Flip sex, and community labs — 
 
 Find out More: https://www.devinerymethod.com/real-world 
 <br>  
+
 
 
 #### Research, Futurism & Culture Shapers
@@ -109,6 +111,7 @@ Read More: https://www.devinerymethod.com/futurist
 <br>  
 
 
+
 #### Business, Economy & Leadership Systems
 
 Where desire literacy becomes the ultimate business intelligence.  
@@ -119,6 +122,7 @@ From venture capital to leadership, behavioural science, marketing, and innovati
 
 Find out More: https://www.devinerymethod.com/business-leadership
 <br>  
+
 
 
 
@@ -139,6 +143,7 @@ Find Out More: https://www.devinerymethod.com/gaming-fantasy-story
 
 
 
+
 #### Erotic Intelligence
 
 Where the architecture of the erotic mind becomes fully visible.  
@@ -152,6 +157,7 @@ The river that works directly with is for anyone whose work touches sexual fanta
 
 Find out more: https://devinerymethod.com 
 <br>  
+
 
 
 
