@@ -87,7 +87,7 @@ Start Ups & Emerging Rivers: https://www.devinerymethod.com/aiandtech
 
 
 
-#### Human Systems & IRL Applications
+#### **Human Systems & IRL Applications**  
 
 Where Desire Literacy is embodied, practiced, and taught.  
 <br>  
