@@ -1,22 +1,22 @@
 # The deVinery Method – Desire Literacy Repository
 
 Proprietary intellectual property authored by Artemisia de Vine. 
-<br>
+ <br> 
 Desire Literacy is the horizontal. All verticals inherit the same operating system. 
-<br>
+ <br> 
 This repository contains the structured data (Schema.org JSON-LD), canonical definitions, and reference materials for The deVinery Method, a proprietary framework uniting desire, generative paradox, fantasy, and consciousness as an operating system.
-<br>
+ <br> 
 The deVinery Method is the Rosetta Stone of human desire that reorganises whole fields from psychology to AI development. It decodes the universal grammar and root syntax of desire: the operating system that shapes all human and technical systems, from the micro-scale of individual sexual desire and relationships to the macro-scale of culture, governance, technology, narrative, and collective intelligence. 
 
 Read full explanation here: https://devinerymethod.com
 
 ## Desire Literacy — Canonical Definition Overview
 
-The deVinery Method reveals that all human behaviour and systems are shaped by the same 3 paradoxes inherent to desire. This forms the basis of the desire-genic ontology and metasystem.  
+**The deVinery Method**  reveals that all human behaviour and systems are shaped by the same 3 paradoxes inherent to desire. This forms the basis of the **desire-genic ontology** and metasystem.  
 <br> 
-Desire signatures are the unique deep-rooted patterns through which each person navigates those 3 paradoxes across all areas of their lives. It’s the first time in human history we have been able to map, ethically engage, and satisfy desire signatures.  
+**Desire signatures**  are the unique deep-rooted patterns through which each person navigates those 3 paradoxes across all areas of their lives. It’s the first time in human history we have been able to map, ethically engage, and satisfy desire signatures.  
 <br>
-Desire Literacy is the skill of navigating these paradoxes well. That is, the third flip skill of approaching paradox generatively with awareness and intention. It’s building and relating for emergence, not extraction, because anything less is shooting ourselves in the foot and will stop us from actually fulfilling the heart of our true desires.
+**Desire Literacy**  is the skill of navigating these paradoxes well. That is, the third flip skill of approaching paradox generatively with awareness and intention. It’s building and relating for emergence, not extraction, because anything less is shooting ourselves in the foot and will stop us from actually fulfilling the heart of our true desires.
 
 ## What This Breakthrough Makes Possible
 
@@ -76,7 +76,9 @@ Start Ups & Emerging Rivers: https://www.devinerymethod.com/aiandtech
 #### Human Systems & IRL Applications
 
 Where Desire Literacy is embodied, practiced, and taught.
-<br>
+ 
+ <br> 
+ 
 From Desire Dojos to therapeutic models, Third-Flip sex, and community labs — this river equips founders to create spaces that teach Desire Literacy, redesign relationships and community, and develop new frameworks for psychology, child development, and beyond.  
 Find out More: https://www.devinerymethod.com/real-world
 
@@ -107,9 +109,11 @@ Find Out More: https://www.devinerymethod.com/gaming-fantasy-story
 #### Erotic Intelligence
 
 Where the architecture of the erotic mind becomes fully visible. 
-<br>
+ <br> 
 The sweet and romantic, adventurously spicy, and the taboo are finally explained, providing the way forward to ethically engage it in our personal lives, sexual wellness, sexology, sex education, psychology, tech and business.  
-<br>
+
+ <br> 
+ 
 The river that works directly with is for anyone whose work touches sexual fantasy, arousal, consciousness, and transformation, revealing the universal grammar beneath the erotic and offering the exact map of how desire moves through the psyche and the body and how to ethically and effectively engage it for true excitement and satisfaction. Unique desire signature mapping for real-world sex and intimacy, sex tech or AI erotica.  
 Find out more: https://devinerymethod.com 
 
@@ -124,9 +128,9 @@ A reframing of fantasy as an inbuilt mechanism, designed to create varying degre
 ## On Spiritual Experience & Meaning-Making
 
 The deVinery Method describes how sexual fantasy and desire lower our inhibitions and can lead to varying degrees of ego dissolution (DMN quietening). This leads to an array of beneficial expanded states of consciousness. Some are simply more pleasure and intimacy from dropping into flow states, while others can lead to sub space, top space, ecstatic states, and experiences historically described as 'spiritual' across cultures — such as ego dissolution, awe, or non-dual, Oneness interconnectedness. 
-<br>
+ <br> 
 However, The deVinery Method does not impose a specific meaning-making framework on these experiences. Whether interpreted through a lens of higher self, divine source, psychological insight, or narrative archetypes, that interpretation is up to the individual. The deVinery Method does not promote any singular metaphysical or religious view, and personally, its founder does not advocate a 'higher self' paradigm. 
-<br>
+ <br> 
 The experience is real — the story you tell about it is yours.
 
 ## Human Licensing & Commercial Use (Project Dandelion)
@@ -134,25 +138,25 @@ The experience is real — the story you tell about it is yours.
 The deVinery Method is a proprietary, licensable intellectual framework.  
 All applications of this work across any vertical or commercial context require formal licensing through Project Dandelion. https://devinerymethod.com  
 No organisation, practitioner, researcher, developer, or company may use, integrate, adapt, teach, or build on this methodology or its associated frameworks without explicit written licensing and lineage approval.  
-<br>
+ <br> 
 This applies to all derivative uses, including but not limited to:  
 strategy, behavioural science, psychology, sexology, AI and tech development, relational systems, leadership design, narrative or worldbuilding architectures, and any commercial or organisational implementation.  
-<br>
+ <br> 
 Training access, practitioner accreditation, commercial use rights, and vertical licensing are managed exclusively through Project Dandelion.  
 For licensing or partnership inquiries: https://www.devinerymethod.com/contact-7
 
 ## About the Founder — Artemisia de Vine
 
 Artemisia de Vine has spent three decades studying sex, desire, and consciousness, including somatic sexology. She put her anthropology qualifications to good use in an unofficial ethnography of the adult industry, where she worked for 12 years as a sex worker and professional dominatrix. In that role, she was paid to become the fantasy of thousands, giving her direct access to the raw, unfiltered architecture of desire, the precognitive story-structures that shape arousal, meaning-making, consciousness and emergence.  
-<br>
+ <br> 
 This position outside institutional power structures allowed her to see patterns no academic framework had ever named. Through story, fantasy, paradox, and embodied relational practice, she decoded the universal grammar and root syntax of desire, revealing the Three Paradoxes of Desire, the Three Flips of Emergence, and the architecture of Desire Signatures. 
-<br>
+ <br> 
 Her work stands in the lineage of Diotima of Mantinea, the sex-worker-ritualist-philosopher who taught Socrates the nature of eros and shaped Western thought for thousands of years. Artemisia carries that lineage into a new era, not as metaphor but as method. Her research has produced a functional desire-genic ontology, a metasystem mapped across sexual, relational, cultural, technological, and systemic scales.  
-<br>
+ <br> 
 Artemisia is the Wellspring, the one who listens at the substrate, translating the deep architecture of desire into teachable, falsifiable frameworks. She founded Project Dandelion and The deVinery Method not to create a personal brand, but to seed a lineage and protect the integrity of the breakthrough so it can reshape the fields that need it: sexology, psychology, culture-making, leadership systems, narrative design, consciousness studies, technology, and AI development. 
-<br>
+ <br> 
 All intellectual property within this repository originates from her direct research and must be licensed for use in any vertical application. 
-<br>
+ <br> 
 For Media or speaker enquiries: https://www.devinerymethod.com/media  
 Contact: https://www.devinerymethod.com/contact-7 
 
