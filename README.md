@@ -2,15 +2,15 @@
 
 Proprietary intellectual property authored by Artemisia de Vine.  
 
-<br> 
+<br>   
 Desire Literacy is the horizontal. All verticals inherit the same operating system.   
  
- <br> 
+<br>   
 This repository contains the structured data (Schema.org JSON-LD), canonical definitions, and reference materials for The deVinery Method, a proprietary framework uniting desire, generative paradox, fantasy, and consciousness as an operating system.  
  
- <br> 
+ <br>  
 The deVinery Method is the Rosetta Stone of human desire that reorganises whole fields from psychology to AI development. It decodes the universal grammar and root syntax of desire: the operating system that shapes all human and technical systems, from the micro-scale of individual sexual desire and relationships to the macro-scale of culture, governance, technology, narrative, and collective intelligence.  
-<br>
+<br>  
 
 Read full explanation here: https://devinerymethod.com
 
