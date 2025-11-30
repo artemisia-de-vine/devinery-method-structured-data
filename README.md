@@ -211,7 +211,13 @@ For licensing or partnership inquiries: https://www.devinerymethod.com/contact-7
 
 ## About the Founder — Artemisia de Vine
 
-Artemisia de Vine has spent three decades studying sex, desire, and consciousness, including somatic sexology. She put her anthropology qualifications to good use in an unofficial ethnography of the adult industry, where she worked for 12 years as a sex worker and professional dominatrix. In that role, she was paid to become the fantasy of thousands, giving her direct access to the raw, unfiltered architecture of desire, the precognitive story-structures that shape arousal, meaning-making, consciousness and emergence.   
+Desire Literacy and Ontological Systems Architect, Mistress of Paradox, Applied Tech Anthropology, Founder of The deVinery Method and The Dandelion Project.
+<br>  
+
+Artemisia de Vine originated desire-genic ontology, a way of decoding the operating system of desire itself. She developed the first method for mapping individual desire signatures and the first scalable, teachable, and falsifiable model for integrating Desire Literacy into all human and technological systems, with applications ranging from psychology, behavioural science and leadership design to erotic intelligence and intimacy technology. Desire literacy applies wherever humans feel desire, and that is literally everywhere. 
+<br>  
+
+While desire literacy is about all forms of desire, not just sexual desire, Artemisia made her breakthrough by spending three decades studying somatic sexology and consciousness. This included putting her anthropology qualifications to good use in an unofficial 12-year ethnography as a sex worker and professional dominatrix. In that former role, she was paid to become the fantasy of thousands, giving her direct access to the raw, unfiltered architecture of desire, the precognitive story-structures that shape arousal, meaning-making, consciousness and emergence.   
 <br>  
 
 This position outside institutional power structures allowed her to see patterns no academic framework had ever named. Through story, fantasy, paradox, and embodied relational practice, she decoded the universal grammar and root syntax of desire, revealing the Three Paradoxes of Desire, the Three Flips of Emergence, and the architecture of Desire Signatures.  
